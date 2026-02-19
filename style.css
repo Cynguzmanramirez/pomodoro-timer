@@ -1,0 +1,14 @@
+:root {
+    --bg: #f9EEE2;
+    --d1: #FFCBBC;
+    --d2: #DDB398;
+    --d4: #FBE0D2;
+    --d5: #F8C5AD;
+}
+
+body{
+    margin: 0;
+    background: var(--bg);
+
+    font-family: 'Bigshot One', sans-serif;
+}
