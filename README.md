@@ -17,4 +17,3 @@ Open `index.html` in your browser.
 
 ---
 
-Built by Cynthia Guzman Ramirez
