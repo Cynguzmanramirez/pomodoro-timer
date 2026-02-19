@@ -7,9 +7,6 @@ A simple Pomodoro timer built with HTML, CSS, and JavaScript.
 - Start / pause functionality
 - Clean UI
 
-## How to Run
-Open `index.html` in your browser.
-
 ## Future Improvements
 - Add break timer
 - Add sound notifications
